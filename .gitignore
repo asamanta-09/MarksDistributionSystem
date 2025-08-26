@@ -1,0 +1,20 @@
+# Java class files
+*.class
+
+# Eclipse project files
+*.project
+*.classpath
+.settings/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# JAR files (optional, if you don't want to track them)
+# lib/*.jar
